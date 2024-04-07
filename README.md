@@ -1,6 +1,6 @@
 # Expected SARSA with Neural Network for Lunar Lander v2
 
-![Page 1](A4 - Lunar Lander_1.png)
+![PDF visualization](A4_-_Lunar_Lander_1.png)
 
 This repository contains an implementation of the Expected SARSA reinforcement learning algorithm, enhanced with a neural network, to solve the Lunar Lander v2 environment from OpenAI Gym. This project serves as a capstone for the Reinforcement Learning specialization on Coursera.
 
